@@ -1,0 +1,6 @@
+!3 !-fit-!
+|'''Date: '''|!-11:14:26 PM (CEST) on Tuesday, October 18, 2011-!|
+|'''Test Page: '''|.FrontPage.MyTestSamples.SimpleTest|
+|'''Command: '''|!-java -cp fitnesse.jar:defaultPath fit.FitServer giorgio 8088 5-!|
+|'''Exit code: '''|!-1-!|
+|'''Time elapsed: '''|!-0.369 seconds-!|

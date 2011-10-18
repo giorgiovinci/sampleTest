@@ -1,0 +1,10 @@
+!contents
+!define TEST_SYSTEM {slim} 
+
+|Import         |
+|sample.fixtures|
+
+|script|web driver             |
+|login |operatore|pwd|operatore|
+
+!path ./target/classes

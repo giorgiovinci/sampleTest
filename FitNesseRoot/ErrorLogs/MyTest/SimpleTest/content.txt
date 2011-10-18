@@ -1,0 +1,9 @@
+!3 !-slim-!
+|'''Date: '''|!-11:54:45 PM (CEST) on Tuesday, October 18, 2011-!|
+|'''Test Page: '''|.MyTest.SimpleTest|
+|'''Command: '''|!-java -cp fitnesse.jar:./target/classes fitnesse.slim.SlimService  8086-!|
+|'''Exit code: '''|!-0-!|
+|'''Time elapsed: '''|!-0.522 seconds-!|
+----'''Standard Output:'''
+{{{Sample user: operatore
+}}}
